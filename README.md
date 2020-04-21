@@ -2,6 +2,7 @@ source: https://github.com/Realiserad/fts-tree
 
 Example output from `FTS-TREE`
 
+```
 Creating Merkle tree with  15 nodes.
 HASH: 94db97d6b1961717a5940c9acead89ccbb8453fd6d0b781db1792356e9275c49  Index: 1
 HASH: 645be88c3c06b7e3935435744994ded4ee1186a8c5e0c8ace452dee273297dc0  Index: 2
@@ -44,6 +45,6 @@ Next hash: 22e5d16e1b804972afd9ea2c38698592bd3a0643cf3b2cb7889f0d4f7c17405e
 Next hash: 645be88c3c06b7e3935435744994ded4ee1186a8c5e0c8ace452dee273297dc0
 Next hash: 94db97d6b1961717a5940c9acead89ccbb8453fd6d0b781db1792356e9275c49
 Root hash matches!
-
+```
 
 ----------
